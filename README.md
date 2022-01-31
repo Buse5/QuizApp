@@ -8,23 +8,23 @@
 | Thymeleaf | :arrow_right: | 70 |
 | H2 Database | :arrow_right: | 70 |
 
-### Application Images
+## Application Images
 
-## Home Page
+### Home Page
 ![image](https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG)
 
-## Home Page Warning
+### Home Page Warning
 ![image](https://github.com/Buse5/QuizApp/blob/main/images/entername.PNG)
 
-## Quiz Page
+### Quiz Page
 ![image](https://github.com/Buse5/QuizApp/blob/main/images/quetions.PNG)
 
 ![image](https://github.com/Buse5/QuizApp/blob/main/images/questions2.PNG)
 
-## Your Score
+### Your Score
 ![image](https://github.com/Buse5/QuizApp/blob/main/images/score.PNG)
 
-## Score Board
+### Score Board
 ![image](https://github.com/Buse5/QuizApp/blob/main/images/scoreTable.PNG)
 
 ### Create the H2 database and paste all the codes below to the console 👇 <br/>
