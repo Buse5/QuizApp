@@ -28,7 +28,7 @@
 <a href="https://github.com/Buse5/QuizApp/blob/main/images/scoreTable.PNG" target="_blank">
 <img src="https://github.com/Buse5/QuizApp/blob/main/images/scoreTable.PNG" width="400" height="200" style="max-width:100%;"></a>
 
-
+##
 ### Create the H2 database and paste all the codes below to the console 👇 <br/>
 ### H2 Database Console 💾
 ```
