@@ -13,30 +13,21 @@
 <a href="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" target="_blank">
 <img src="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" width="500" height="300" style="max-width:100%;"></a>
 
-<a href="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" target="_blank">
-<img src="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" width="500" height="300" style="max-width:100%;"></a>
+<a href="https://github.com/Buse5/QuizApp/blob/main/images/entername.PNG" target="_blank">
+<img src="https://github.com/Buse5/QuizApp/blob/main/images/entername.PNG" width="500" height="300" style="max-width:100%;"></a>
 
-<a href="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" target="_blank">
-<img src="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" width="500" height="300" style="max-width:100%;"></a>
+<a href="https://github.com/Buse5/QuizApp/blob/main/images/quetions.PNG" target="_blank">
+<img src="https://github.com/Buse5/QuizApp/blob/main/images/quetions.PNG" width="500" height="300" style="max-width:100%;"></a>
 
-<a href="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" target="_blank">
-<img src="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" width="500" height="300" style="max-width:100%;"></a>
-### Home Page
-![image](https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG)
+<a href="https://github.com/Buse5/QuizApp/blob/main/images/questions2.PNG" target="_blank">
+<img src="https://github.com/Buse5/QuizApp/blob/main/images/questions2.PNG" width="500" height="300" style="max-width:100%;"></a>
 
-### Home Page Warning
-![image](https://github.com/Buse5/QuizApp/blob/main/images/entername.PNG)
+<a href="https://github.com/Buse5/QuizApp/blob/main/images/score.PNG" target="_blank">
+<img src="https://github.com/Buse5/QuizApp/blob/main/images/score.PNG" width="500" height="300" style="max-width:100%;"></a>
 
-### Quiz Page
-![image](https://github.com/Buse5/QuizApp/blob/main/images/quetions.PNG)
+<a href="https://github.com/Buse5/QuizApp/blob/main/images/scoreTable.PNG" target="_blank">
+<img src="https://github.com/Buse5/QuizApp/blob/main/images/scoreTable.PNG" width="500" height="300" style="max-width:100%;"></a>
 
-![image](https://github.com/Buse5/QuizApp/blob/main/images/questions2.PNG)
-
-### Your Score
-![image](https://github.com/Buse5/QuizApp/blob/main/images/score.PNG)
-
-### Score Board
-![image](https://github.com/Buse5/QuizApp/blob/main/images/scoreTable.PNG)
 
 ### Create the H2 database and paste all the codes below to the console 👇 <br/>
 ### H2 Database Console 💾
