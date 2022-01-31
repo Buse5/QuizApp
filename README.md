@@ -10,6 +10,10 @@
 
 ## Application Images
 
+<a href="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" target="_blank">
+<img src="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" width="400" height="300" style="max-width:100%;"></a>
+
+
 ### Home Page
 ![image](https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG)
 
