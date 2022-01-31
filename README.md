@@ -9,7 +9,7 @@
 | H2 Db | :arrow_right: | 70 |
 
 Step 1: create h2 database console and past all code<br/>
-Dockerfile:
+H2 Database Console
 ```
 insert into questions(ques_id, title, optionA, optionB, optionC, ans, chose)
 values(
