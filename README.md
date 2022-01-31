@@ -1,6 +1,6 @@
 # Spring Boot Quiz App
 
- ## Languages And Abilities
+ ## Languages And Abilities 👩‍💻
 
 | Dil / Yetenek | :arrow_right: | % |
 | ------------- |:-------------:|:-------------:|
@@ -8,8 +8,8 @@
 | Thymeleaf | :arrow_right: | 70 |
 | H2 Db | :arrow_right: | 70 |
 
-### Create the H2 database and paste all the codes below to the console.<br/>
-### H2 Database Console
+### Create the H2 database and paste all the codes below to the console 👇 <br/>
+### H2 Database Console 💾
 ```
 insert into questions(ques_id, title, optionA, optionB, optionC, ans, chose)
 values(
