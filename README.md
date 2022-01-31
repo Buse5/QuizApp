@@ -11,10 +11,10 @@
 ## Application Images
 
 <a href="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" target="_blank">
-<img src="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" width="500" height="300" style="max-width:100%;"></a>
+<img src="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" width="350" height="200" style="max-width:100%;"></a>
 
 <a href="https://github.com/Buse5/QuizApp/blob/main/images/entername.PNG" target="_blank">
-<img src="https://github.com/Buse5/QuizApp/blob/main/images/entername.PNG" width="500" height="300" style="max-width:100%;"></a>
+<img src="https://github.com/Buse5/QuizApp/blob/main/images/entername.PNG" width="350" height="200" style="max-width:100%;"></a>
 
 <a href="https://github.com/Buse5/QuizApp/blob/main/images/quetions.PNG" target="_blank">
 <img src="https://github.com/Buse5/QuizApp/blob/main/images/quetions.PNG" width="500" height="300" style="max-width:100%;"></a>
