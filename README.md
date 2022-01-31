@@ -9,21 +9,26 @@
 | H2 Database | :arrow_right: | 70 |
 
 ### Application Images
-##Home Page
-![image](https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG width="500" height="500" style="max-width:100%;)
 
-##Home Page Warning
+<a href="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" target="_blank">
+<img src="https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG" width="500" height="500" style="max-width:100%;"></a>
+
+
+## Home Page
+![image](https://github.com/Buse5/QuizApp/blob/main/images/proje1.PNG)
+
+## Home Page Warning
 ![image](https://github.com/Buse5/QuizApp/blob/main/images/entername.PNG)
 
-##Quiz Page
+## Quiz Page
 ![image](https://github.com/Buse5/QuizApp/blob/main/images/quetions.PNG)
 
 ![image](https://github.com/Buse5/QuizApp/blob/main/images/questions2.PNG)
 
-##Your Score
+## Your Score
 ![image](https://github.com/Buse5/QuizApp/blob/main/images/score.PNG)
 
-##Score Board
+## Score Board
 ![image](https://github.com/Buse5/QuizApp/blob/main/images/scoreTable.PNG)
 
 ### Create the H2 database and paste all the codes below to the console 👇 <br/>
