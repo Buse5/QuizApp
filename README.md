@@ -8,7 +8,7 @@
 | Thymeleaf | :arrow_right: | 70 |
 | H2 Db | :arrow_right: | 70 |
 
-Step 1: create h2 database console and past all code<br/>
+Step 1: Create the H2 database and paste all the codes below to the console.<br/>
 H2 Database Console
 ```
 insert into questions(ques_id, title, optionA, optionB, optionC, ans, chose)
