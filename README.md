@@ -2,7 +2,7 @@
 
  ## Languages And Abilities 👩‍💻
 
-| Dil / Yetenek | :arrow_right: | % |
+| Languages/Abilities | :arrow_right: | % |
 | ------------- |:-------------:|:-------------:|
 | Spring Boot | :arrow_right: | 90 |
 | Thymeleaf | :arrow_right: | 70 |
